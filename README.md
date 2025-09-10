@@ -7,4 +7,4 @@
 - [`AWS Infrastructure`](https://github.com/alexandermamaniy/devops-sec-house-billing-app-deploy)
 
 ## Documentation
-- [`PDF Report`](https://github.com/alexandermamaniy/hotel-coupon-app/blob/main/document/hotel_coupon_app_document.pdf)
+- [`PDF Report`](https://github.com/alexandermamaniy/house-billing-app/blob/main/document/house_billing_project.pdf)
