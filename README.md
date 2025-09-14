@@ -42,8 +42,8 @@ The system uses a **layered architecture**, ensuring separation of concerns and 
 - NAT Gateway for controlled outbound internet access.  
 - Security Groups enforcing **least-privilege rules**.  
 
-<img src="images/networksAndSubnets(1).png" alt="House Billing Architecture" width="400" />
-<img src="images/firewallrules(1).png" alt="House Billing Architecture" width="400"/>
+<img src="images/networksAndSubnets(1).png" alt="House Billing Architecture" width="500" />
+<img src="images/firewallrules(1).png" alt="House Billing Architecture" width="500"/>
 
 ---
 
