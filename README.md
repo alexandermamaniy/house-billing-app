@@ -42,8 +42,8 @@ The system uses a **layered architecture**, ensuring separation of concerns and 
 - NAT Gateway for controlled outbound internet access.  
 - Security Groups enforcing **least-privilege rules**.  
 
-<img src="images/networksAndSubnets(1).png" alt="House Billing Architecture" width="600"/>
-<img src="images/firewallrules(1).png" alt="House Billing Architecture" width="600"/>
+<img src="images/networksAndSubnets(1).png" alt="House Billing Architecture" width="400" />
+<img src="images/firewallrules(1).png" alt="House Billing Architecture" width="400"/>
 
 ---
 
@@ -67,7 +67,7 @@ The CI/CD pipelines are implemented in **GitHub Actions**:
    - Pulls updated Docker images.  
    - Restarts containers with zero downtime.  
 
-<img src="images/CICDWorkflow(2).png" alt="House Billing App CICD Workflow" width="600"/>
+<img src="images/CICDWorkflow(2).png" alt="House Billing App CICD Workflow" width="800" />
 
 ---
 
